@@ -83,6 +83,7 @@ nav li a:hover{
   box-shadow: var(--box);
   border-radius: 20px;
   border: 1px solid gray;
+  text-align: center;
 }
 
 .img_content{
